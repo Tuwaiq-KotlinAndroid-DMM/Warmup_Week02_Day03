@@ -17,7 +17,7 @@ Member functions:
 
 # Optional
 Properties:
-- current page
+- Current page
 
 Member functions:
 - To turn the page to right.
